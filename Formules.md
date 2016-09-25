@@ -126,7 +126,10 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Comme les Rois Mages ♪ en Galilée ♫ suivaient des yeux l'étoile du Berger ♪ ♪
 - Amicalement vôtre,
 - Chic planète,
-- Oh oui youpi!
+- Oh oui youpi !
+- Quand te reverrai-je (pays merveilleux) ?
+- Le lundi au soleil
+- Un jour j'irai à New-York avec toi _note : si vous avez des amis qui partent régulièrement outre-Atlantique_
 
 ## Formules tirée de films/livres :
 - Et joyeux Noël à la patate nouvelle ! _Toy Story_
@@ -137,6 +140,7 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Longue vie et prospérité. _Star Trek (salut Vulcain)_
 - Yippee-Ki-Yay, Motherfucker! _Die Hard_
 - Ah ! Et au cas où on ne se reverrait pas, une bonne soirée et une excellente nuit ! _The Truman Show_
+- Ce message s’autodétruira dans cinq secondes _Mission impossible_
 
 ## Formules adaptées au contexte de l'interlocuteur
 - En te souhaitant un millier de formidables premières fois, _note: Après une naissance_
